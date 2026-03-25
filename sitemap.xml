@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <!-- Main Page -->
+  <url>
+    <loc>https://mohamed-ebrahim55.github.io/el-baraka-fried-chicken/</loc>
+    <lastmod>2026-03-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    
+    <!-- Menu Images for SEO -->
+    <image:image>
+      <image:loc>https://mohamed-ebrahim55.github.io/el-baraka-fried-chicken/images/menu-dinein.png</image:loc>
+      <image:title>البركة فرايد تشيكن - منيو الصالة - El Baraka Fried Chicken Dine-in Menu</image:title>
+      <image:caption>أفضل طعم بروست في الإسكندرية والقاهرة - Best Broasted Chicken in Alexandria and Cairo</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://mohamed-ebrahim55.github.io/el-baraka-fried-chicken/images/menu-delivery.png</image:loc>
+      <image:title>البركة فرايد تشيكن - منيو الدليفري - El Baraka Fried Chicken Delivery Menu</image:title>
+      <image:caption>أسرع دليفري 16099 - Fastest Delivery 16099</image:caption>
+    </image:image>
+  </url>
+</urlset>

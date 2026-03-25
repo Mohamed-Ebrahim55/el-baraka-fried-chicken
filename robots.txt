@@ -1,0 +1,8 @@
+# El Baraka Fried Chicken - SEO Optimization
+# Keywords: البركة فرايد تشيكن, El Baraka Fried Chicken, مطاعم فرايد تشيكن الإسكندرية, أسرع دليفري 16099, منيو البركة
+
+User-agent: *
+Allow: /
+
+# Sitemap URL
+Sitemap: https://mohamed-ebrahim55.github.io/el-baraka-fried-chicken/sitemap.xml
