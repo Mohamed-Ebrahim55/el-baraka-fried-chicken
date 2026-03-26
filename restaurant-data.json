@@ -1,0 +1,165 @@
+{
+  "settings": {
+    "hotline": "16099",
+    "social": {
+      "facebook": "https://facebook.com/ElBarakaFriedChicken",
+      "instagram": "https://instagram.com/ElBarakaFriedChicken",
+      "whatsapp": "https://wa.me/16099",
+      "linktree": "https://linktr.ee/BarakaFriedChicken"
+    },
+    "heroSlider": [
+      {
+        "image": "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?q=80&w=2070&auto=format&fit=crop",
+        "titleAr": "البركة فرايد تشيكن",
+        "titleEn": "EL BARAKA FRIED CHICKEN",
+        "subtitleAr": "الطعم الأصلي للبروست المقرمش",
+        "subtitleEn": "The Original Taste of Crispy Broasted"
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1606755962773-d324e0a13086?q=80&w=2070&auto=format&fit=crop",
+        "titleAr": "بركة في كل قطعة",
+        "titleEn": "Blessing in Every Piece",
+        "subtitleAr": "جودة لا تقاوم وسعر مميز",
+        "subtitleEn": "Irresistible Quality & Great Price"
+      }
+    ]
+  },
+  "menus": [
+    {
+      "id": "dine-in",
+      "titleAr": "منيو الصالة",
+      "titleEn": "Dine-in Menu",
+      "imageUrl": "images/menu-dinein.png",
+      "type": "Dine-in"
+    },
+    {
+      "id": "delivery",
+      "titleAr": "منيو الدليفري",
+      "titleEn": "Delivery Menu",
+      "imageUrl": "images/menu-delivery.png",
+      "type": "Delivery"
+    }
+  ],
+  "branches": [
+    {
+      "id": "alex-bahary",
+      "nameAr": "فرع بحري",
+      "nameEn": "Bahary Branch",
+      "addressAr": "19 شارع (26 يوليو) علي البحر مباشر بجوار جيلاتي الصعيدي",
+      "addressEn": "19 (26 July) St, Directly on the sea, next to Gelati El Saidi",
+      "city": "Alexandria",
+      "googleMapsUrl": "https://maps.google.com/?q=El+Baraka+Bahary+Alexandria",
+      "hasDiningArea": true,
+      "openingHours": "10:00 AM",
+      "closingHours": "2:00 AM"
+    },
+    {
+      "id": "alex-camp-cesar",
+      "nameAr": "فرع كامب شيزار",
+      "nameEn": "Camp Cesar Branch",
+      "addressAr": "كامب شيزار علي البحر بجانب كافيه والي",
+      "addressEn": "Camp Cesar on the sea, next to Wally Cafe",
+      "city": "Alexandria",
+      "googleMapsUrl": "https://maps.google.com/?q=El+Baraka+Camp+Cesar+Alexandria",
+      "hasDiningArea": false,
+      "openingHours": "10:00 AM",
+      "closingHours": "2:00 AM"
+    },
+    {
+      "id": "alex-smouha-2",
+      "nameAr": "فرع سموحة 2",
+      "nameEn": "Smouha 2 Branch",
+      "addressAr": "شارع مسجد حاتم السوق التجاري القديم بجوار فرعنا الثاني",
+      "addressEn": "Hatem Mosque St, Old Commercial Market, next to our second branch",
+      "city": "Alexandria",
+      "googleMapsUrl": "https://maps.google.com/?q=El+Baraka+Smouha+Alexandria",
+      "hasDiningArea": true,
+      "openingHours": "10:00 AM",
+      "closingHours": "2:00 AM"
+    },
+    {
+      "id": "alex-ezaa",
+      "nameAr": "فرع الإذاعة",
+      "nameEn": "El Ezaa Branch",
+      "addressAr": "30 شارع الاذاعة باكوس",
+      "addressEn": "30 El Ezaa St, Bakos",
+      "city": "Alexandria",
+      "googleMapsUrl": "https://maps.google.com/?q=El+Baraka+Bakos+Alexandria",
+      "hasDiningArea": false,
+      "openingHours": "10:00 AM",
+      "closingHours": "2:00 AM"
+    },
+    {
+      "id": "alex-mahrousa",
+      "nameAr": "فرع المحروسة",
+      "nameEn": "El Mahrousa Branch",
+      "addressAr": "طريق الجيش بجانب نفق المحروسة مباشرا وفندق المحروسة",
+      "addressEn": "El Geish Rd, next to Mahrousa Tunnel and Mahrousa Hotel",
+      "city": "Alexandria",
+      "googleMapsUrl": "https://maps.google.com/?q=El+Baraka+Mahrousa+Alexandria",
+      "hasDiningArea": false,
+      "openingHours": "10:00 AM",
+      "closingHours": "2:00 AM"
+    },
+    {
+      "id": "alex-sidi-bishr",
+      "nameAr": "فرع سيدي بشر",
+      "nameEn": "Sidi Bishr Branch",
+      "addressAr": "شارع العيسوي بجوار سوق الكومبيوتر وامام شركة الكهرباء",
+      "addressEn": "El Eissawy St, next to Computer Market, in front of Electricity Company",
+      "city": "Alexandria",
+      "googleMapsUrl": "https://maps.google.com/?q=El+Baraka+Sidi+Bishr+Alexandria",
+      "hasDiningArea": true,
+      "openingHours": "10:00 AM",
+      "closingHours": "2:00 AM"
+    },
+    {
+      "id": "alex-miami",
+      "nameAr": "فرع ميامي",
+      "nameEn": "Miami Branch",
+      "addressAr": "أخر البكباشي العيسوي مع اسكندر إبراهيم أمام مسجد رقي الإسلام",
+      "addressEn": "End of El Bakbashi El Eissawy with Iskander Ibrahim, in front of Roqi El Islam Mosque",
+      "city": "Alexandria",
+      "googleMapsUrl": "https://maps.google.com/?q=El+Baraka+Miami+Alexandria",
+      "hasDiningArea": false,
+      "openingHours": "10:00 AM",
+      "closingHours": "2:00 AM"
+    },
+    {
+      "id": "alex-mandara",
+      "nameAr": "فرع المندرة",
+      "nameEn": "Mandara Branch",
+      "addressAr": "طريق الجيش امتداد شارع مسجد عبد الحليم محمود وأمام كافيه سانتوس",
+      "addressEn": "El Geish Rd, extension of Abdel Halim Mahmoud Mosque St, in front of Santos Cafe",
+      "city": "Alexandria",
+      "googleMapsUrl": "https://maps.google.com/?q=El+Baraka+Mandara+Alexandria",
+      "hasDiningArea": true,
+      "openingHours": "10:00 AM",
+      "closingHours": "2:00 AM"
+    },
+    {
+      "id": "cairo-mohandessin",
+      "nameAr": "فرع المهندسين",
+      "nameEn": "Mohandessin Branch",
+      "addressAr": "45 شارع البطل احمد عبدالعزيز من شارع جامعة الدول العربية بجوار بافلو برجر",
+      "addressEn": "45 El Batal Ahmed Abdel Aziz St, from Gameat El Dowal El Arabia St, next to Buffalo Burger",
+      "city": "Cairo",
+      "googleMapsUrl": "https://maps.google.com/?q=El+Baraka+Mohandessin+Cairo",
+      "hasDiningArea": true,
+      "openingHours": "10:00 AM",
+      "closingHours": "4:00 AM"
+    },
+    {
+      "id": "cairo-mokattam",
+      "nameAr": "فرع المقطم",
+      "nameEn": "Mokattam Branch",
+      "addressAr": "شارع 9 – امتداد ميدان النافورة محل رقم (2)، قطعة 391 د، بلوك 18 بجوار فرع اتصالات",
+      "addressEn": "9th St, extension of El Nafoura Square, Shop No. 2, Piece 391 D, Block 18, next to Etisalat",
+      "city": "Cairo",
+      "googleMapsUrl": "https://maps.google.com/?q=El+Baraka+Mokattam+Cairo",
+      "hasDiningArea": true,
+      "openingHours": "10:00 AM",
+      "closingHours": "4:00 AM"
+    }
+  ]
+}
